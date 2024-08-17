@@ -3,12 +3,10 @@ public:
     int maxDistance(vector<vector<int>>& arrays) {
         int preMn = INT_MAX,preMx = INT_MIN, ans = INT_MIN,curMn,curMx;
         for(int i = 0 ; i < arrays.size() ; i++){
-            curMn = INT_MAX;
-            curMx = INT_MIN;
-            for(int j = 0 ; j <arrays[i].size(); j++){
-                curMn = min(curMn,arrays[i][j]);
-                curMx = max(curMx,arrays[i][j]);
-            }
+            // curMn = INT_MAX;
+            // curMx = INT_MIN;
+            curMx = *(arrays[i].end()-1);
+            curMn = arrays[i][0];
             if(i){
                 ans = max(ans,preMx - curMn);    
                 ans = max(ans,curMx - preMn);
