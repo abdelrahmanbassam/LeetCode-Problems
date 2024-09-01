@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0212-word-search-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0212-word-search-ii) |
+| [0605-can-place-flowers](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0890-lemonade-change) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0890-lemonade-change) |
 ## Hash Table
