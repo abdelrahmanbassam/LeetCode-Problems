@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [1240-stone-game-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2035-count-sub-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Backtracking
