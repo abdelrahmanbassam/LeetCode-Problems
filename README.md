@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0136-single-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0212-word-search-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0907-koko-eating-bananas](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
