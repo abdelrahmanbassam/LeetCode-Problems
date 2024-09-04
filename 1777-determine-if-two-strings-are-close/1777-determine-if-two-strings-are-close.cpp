@@ -1,30 +1,21 @@
 class Solution {
 public:
     bool closeStrings(string word1, string word2) {
-        unordered_map<char,int> oc1,oc2;
-        for(auto &c : word1)
-            oc1[c]++;
+        if(word1.size()!=word2.size()) return false;
+        vector<int> freq1(26,0),freq2(26,0);
         
-        for(auto &c : word2)
-            oc2[c]++;
-
-        for(auto &fr1 : oc1){
-            if(oc2.find(fr1.first) == oc2.end())
-                return false;
-
-            for(auto &fr2 : oc2){
-                if(fr1.second == fr2.second){
-                    swap(oc2[fr1.first],fr2.second);
-                    oc2[fr1.first] = 0 ;
-                    fr1.second = 0;
-                    break;
-                }
+        for(auto c:word1) freq1[c-'a']++;
+        for(auto c:word2) freq2[c-'a']++;
+        
+        multiset<int> s1,s2;
+        for(int i=0;i<26;i++){
+            if((freq1[i]==0 && freq2[i]!=0) || (freq1[i]!=0 && freq2[i]==0)) return false;
+            if(freq1[i]!=0){
+                s1.insert(freq1[i]);
+                s2.insert(freq2[i]);
             }
-           
         }
-        for(auto &fr1 : oc1) if(fr1.second !=0) return false;
-        for(auto &fr2 : oc2) if(fr2.second !=0) return false;
-        return true;
-
+        return s1==s2;
+    
     }
 };
