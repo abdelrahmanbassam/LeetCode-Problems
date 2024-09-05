@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2155-find-missing-observations) |
+| [2428-equal-row-and-column-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
+| [2428-equal-row-and-column-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [2035-count-sub-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2155-find-missing-observations) |
+| [2428-equal-row-and-column-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## Stack
 |  |
 | ------- |
