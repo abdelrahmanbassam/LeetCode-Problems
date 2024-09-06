@@ -1,17 +1,15 @@
 class SmallestInfiniteSet {
 public:
-    priority_queue<int, vector<int>, greater<int>> q;
-    set<int> s;  // To keep track of elements in the priority queue
+    set<int> s;
     int cur = 1;
 
     SmallestInfiniteSet() {}
 
     int popSmallest() {
         int res;
-        if (!q.empty() && q.top() < cur) {
-            res = q.top();
-            q.pop();
-            s.erase(res);
+        if (!s.empty() && *s.begin() < cur) {
+            res = *s.begin();
+            s.erase(s.begin());
         } else {
             res = cur;
             cur++;
@@ -20,8 +18,7 @@ public:
     }
 
     void addBack(int num) {
-        if (num < cur && s.find(num) == s.end()) {
-            q.push(num);
+        if (num < cur) {
             s.insert(num);
         }
     }
