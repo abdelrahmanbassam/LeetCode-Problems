@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0664-strange-printer) |
+| [0747-min-cost-climbing-stairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1240-stone-game-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
