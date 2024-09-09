@@ -8,6 +8,12 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+auto speedUP = [](){
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
 class Solution {
 public:
     vector<vector<int>> spiralMatrix(int m, int n, ListNode* head) {
