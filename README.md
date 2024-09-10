@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0649-dota2-senate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0564-find-the-closest-palindrome](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0649-dota2-senate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0664-strange-printer) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
