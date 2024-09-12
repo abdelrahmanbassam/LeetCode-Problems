@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2636-maximum-subsequence-score) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2636-maximum-subsequence-score](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2636-maximum-subsequence-score) |
 ## Greedy
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0890-lemonade-change) |
+| [2636-maximum-subsequence-score](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2636-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [1325-path-with-maximum-probability](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [2413-smallest-number-in-infinite-set](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2803-modify-graph-edge-weights](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
 ## Prefix Sum
 |  |
