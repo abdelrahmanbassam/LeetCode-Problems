@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2803-modify-graph-edge-weights](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Union Find
