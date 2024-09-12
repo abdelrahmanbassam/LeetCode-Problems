@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0664-strange-printer) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Design
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Queue
 |  |
 | ------- |
