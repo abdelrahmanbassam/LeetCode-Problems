@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0649-dota2-senate) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0664-strange-printer) |
 | [0747-min-cost-climbing-stairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
