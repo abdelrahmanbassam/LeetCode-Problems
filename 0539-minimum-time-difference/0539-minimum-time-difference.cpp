@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int timeConvertToMinutes(string time)
+    int timeConvertToMinutes(string &time)
     {
         int hourToMinute = stoi(time.substr(0, 2)) * 60;
         int minute = stoi(time.substr(3, 2));
@@ -19,7 +19,7 @@ public:
         {
             time_one = timeConvertToMinutes(timePoints[i]);
             time_two = timeConvertToMinutes(timePoints[i + 1]);
-            
+
             ans = min(ans, abs(time_one - time_two));
             ans = min(ans, abs(time_one - (1440 + time_two)));
         }
