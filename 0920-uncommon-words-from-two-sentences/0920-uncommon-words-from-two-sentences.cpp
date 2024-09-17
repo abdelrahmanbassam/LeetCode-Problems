@@ -25,7 +25,7 @@ public:
         
         mp[word]++;
         
-        for(auto &i : mp)
+        for(auto i : mp)
             if(i.second == 1) res.push_back(i.first);
         
         return res;
