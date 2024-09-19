@@ -12,23 +12,29 @@
 class Solution {
 public:
     int maxLen = 0;
-    int dfs(TreeNode* root, int dir,int len){//-1 for left , 1 for right
-        if(root == NULL)
-            return len;
+ 
+    void dfs(TreeNode* node, bool right,int len){
+        if(node == NULL)
+            return ;
 
-        if(dir == 1)//must go to left
-            return dfs(root->left, -1, len + 1);
-        else
-            return dfs(root->right, 1, len + 1);
+        maxLen = max(len,maxLen);
+
+        if(right){//must go to left
+            dfs(node->left, false, len + 1);
+            dfs(node->right, true, 1);
+        }
+        else{
+            dfs(node->right, true, len + 1);
+            dfs(node->left, false, 1);
+        }
 
     }
     int longestZigZag(TreeNode* root) {
         if(root == NULL)
             return maxLen;
-        maxLen = max(dfs(root,-1,-1),maxLen);
-        maxLen = max(dfs(root,1,-1),maxLen);
-        longestZigZag(root->left); 
-        longestZigZag(root->right); 
+        dfs(root,0,0);
+        dfs(root,1,0);
+       
         return maxLen;
     }
 };
