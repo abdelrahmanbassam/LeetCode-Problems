@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0392-is-subsequence) |
@@ -409,4 +410,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0937-online-stock-span) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
