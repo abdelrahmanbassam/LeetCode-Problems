@@ -6,10 +6,7 @@ public:
     }
     
     int next(int price) {
-        // if(st.empty()){
-        //     st.push({price,1});
-        //     return 1;
-        // }
+
         int newSpan = 1;
         while(st.size() && st.top().first <= price){
             newSpan+=st.top().second;
