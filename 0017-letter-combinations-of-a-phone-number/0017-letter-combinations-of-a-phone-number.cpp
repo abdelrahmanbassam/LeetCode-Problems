@@ -2,8 +2,7 @@ class Solution {
 public:
 map<char,string>phone;
 vector<string> compinations;
-void hamada(string digits,int i,string x)
-{
+void hamada(string &digits,int i,string x){
     if(x.size()==digits.size()){
         compinations.push_back(x);
         return;
