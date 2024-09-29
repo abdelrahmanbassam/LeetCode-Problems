@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0212-word-search-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0212-word-search-ii) |
 ## Two Pointers
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
