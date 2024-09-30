@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0338-counting-bits) |
