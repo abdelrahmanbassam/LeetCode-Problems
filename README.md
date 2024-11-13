@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0179-largest-number) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
