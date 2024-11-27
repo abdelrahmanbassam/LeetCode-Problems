@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0906-walking-robot-simulation](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1325-path-with-maximum-probability](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
@@ -402,10 +406,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -415,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -486,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
