@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0394-decode-string) |
