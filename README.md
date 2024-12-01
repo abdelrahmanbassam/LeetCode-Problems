@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1397-search-suggestions-system](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1319-unique-number-of-occurrences](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
