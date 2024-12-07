@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0792-binary-search](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
