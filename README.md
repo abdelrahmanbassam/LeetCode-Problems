@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1397-search-suggestions-system](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
