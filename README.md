@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2636-maximum-subsequence-score) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
