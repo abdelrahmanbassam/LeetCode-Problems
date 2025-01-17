@@ -1,33 +1,28 @@
 class Solution {
 public:
-    int maxSubContainMid(vector<int>& nums,int l ,int r){//o(n)
-        int mid = (l + r)/2;
-        int leftSum = 0;
-        int rightSum = 0;
-        int sum = 0 ;
-        for(int i = mid - 1 ; i >= l ; i--){
-            sum+=nums[i];
-            leftSum=max(sum, leftSum);
-        }
-
-        sum = 0;
-        for(int i = mid + 1 ; i <= r ; i++){
-            sum+=nums[i];
-            rightSum=max(sum, rightSum);
-        }
-        return nums[mid]+leftSum+rightSum;
-    }
-    int maxSubArrayHelper(vector<int>& nums,int l ,int r){
+    int maxSubArrayHelper(int l, int r, vector<int>& nums){
         if(l == r)
             return nums[l];
-        int mid = (l + r)/2;
-        
-        int sumLeft =  maxSubArrayHelper(nums,l,mid); 
-        int sumRight =  maxSubArrayHelper(nums,mid+1,r);
-        int sumMid =  maxSubContainMid(nums,l,r);
-        return max(max(sumLeft,sumRight),sumMid);
+        int sumleft = maxSubArrayHelper(l, (l+r)/2, nums);
+        int sumRight = maxSubArrayHelper((l+r)/2 +1 , r, nums);
+        int sumCross = corssSum(l,r,nums);
+        return max(max(sumleft,sumRight),sumCross);
+    }
+    int corssSum(int l, int r, vector<int>& nums){
+        int sum = 0;
+        int leftSum = 0, rightSum = 0, mid = (l+r)/2;
+        for(int i = mid - 1 ; i >= l ; i--){
+            sum += nums[i];
+            leftSum = max(leftSum,sum);
+        }
+        sum = 0;
+        for(int i = mid + 1; i <= r; i++){
+            sum += nums[i];
+            rightSum = max(rightSum,sum);
+        }
+        return rightSum + leftSum + nums[mid];
     }
     int maxSubArray(vector<int>& nums) {
-       return  maxSubArrayHelper(nums,0,nums.size()-1);
+        return maxSubArrayHelper(0,nums.size()-1,nums);
     }
 };
