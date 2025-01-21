@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2358-number-of-ways-to-split-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## Math
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2145-grid-game](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 ## Game Theory
