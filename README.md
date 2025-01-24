@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -617,4 +620,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
