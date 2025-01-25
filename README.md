@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2636-maximum-subsequence-score) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2035-count-sub-islands) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sliding Window
 |  |
 | ------- |
