@@ -1,27 +1,30 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        int mult = 1;
-        int z =0 ;
-        for(auto &e : nums){
-            if(e == 0)
-                z++;
-            else 
-                mult *= e;
-        }
-        if(z > 1)
-            mult = 0;
-
-        vector<int> ans;
-         for(auto &e : nums){
-            if(e == 0)
-                ans.push_back(mult);
-            else if(!z)
-                ans.push_back(mult/e);
+        int prod = 1;
+        bool isZero = 0 ;
+        for(auto &e: nums){
+            if(e == 0){
+                if(isZero){
+                    prod = 0;
+                    break;
+                }
+                isZero = 1;
+            }
             else
-                ans.push_back(0);
+                prod *= e;
+        }
+        vector<int> ans;
+        int val = 0;
+        for(auto &e: nums){            
+            if(e && isZero)
+                val = 0;
+            else if(!e)
+                val = prod;
+            else
+                val = prod / e;
+            ans.push_back(val);
         }
         return ans;
-                
     }
 };
