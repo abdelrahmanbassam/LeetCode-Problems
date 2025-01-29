@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2035-count-sub-islands) |
