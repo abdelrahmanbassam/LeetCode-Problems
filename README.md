@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2035-count-sub-islands) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sliding Window
