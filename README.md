@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0179-largest-number) |
