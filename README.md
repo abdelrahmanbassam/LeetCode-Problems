@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Queue
