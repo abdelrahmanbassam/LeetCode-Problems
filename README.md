@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0212-word-search-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2155-find-missing-observations](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
