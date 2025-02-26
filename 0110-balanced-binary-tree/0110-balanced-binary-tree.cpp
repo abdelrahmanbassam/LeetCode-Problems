@@ -11,16 +11,20 @@
  */
 class Solution {
 public:
-    pair<int,int> dfs(TreeNode* root){
+    bool balanced = true;
+    int depths(TreeNode* root){
         if(root == NULL)
-            return {0,false};
-        pair<int,int> left  = dfs(root->left);
-        pair<int,int> right = dfs(root->right);
-        int h = 1 + max(left.first , right.first);
-        bool f  = left.second || right.second || abs(left.first - right.first) > 1 ;
-        return {h,f};
+            return 0;
+        int leftDepth = 1 + depths(root->left);
+        int rightDepth = 1 + depths(root->right);
+        if(abs(leftDepth - rightDepth) > 1)
+            balanced =false;
+        return max(leftDepth,rightDepth);
     }
     bool isBalanced(TreeNode* root) {
-       return !dfs(root).second;
+        if(root == NULL)
+            return true;
+        depths(root);
+        return balanced;
     }
 };
