@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
