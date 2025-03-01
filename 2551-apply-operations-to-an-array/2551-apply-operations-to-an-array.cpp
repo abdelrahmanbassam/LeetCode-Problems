@@ -8,17 +8,16 @@ public:
                 nums[i + 1] = 0;
             }
         }
-        int z = 0,e = 0;
-        while(e < n && z < n){
-            while(z < n && nums[z] != 0)
-                z++;                
-            while(e < n && nums[e] == 0)
-                e++;
-            e = max(e, z + 1);
-            if(e < n && z < n && e > z)
-                swap(nums[e],nums[z]);
+        int nz = 0;
+        for(int i = 0; i < n; i++){
+            if(nums[i] != 0){
+                nums[nz] = nums[i];
+                nz++;
+            }
         }
-        
+        while(nz < n){
+            nums[nz++] = 0; 
+        }
         return nums;
     }
 };
