@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0724-find-pivot-index) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
+| [0695-max-area-of-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
@@ -634,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
