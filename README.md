@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0649-dota2-senate) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
