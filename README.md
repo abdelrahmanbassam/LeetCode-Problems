@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0062-unique-paths) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0394-decode-string) |
@@ -740,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0937-online-stock-span) |
 ## Rolling Hash
