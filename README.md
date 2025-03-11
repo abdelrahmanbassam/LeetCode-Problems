@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0070-climbing-stairs) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0394-decode-string) |
