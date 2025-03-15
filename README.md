@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
+| [0876-hand-of-straights](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0876-hand-of-straights](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1397-search-suggestions-system](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0876-hand-of-straights](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0876-hand-of-straights](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
