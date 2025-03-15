@@ -11,7 +11,9 @@ public:
         return ans >= k;
     }
     int minCapability(vector<int>& nums, int k) {
-        int l = 0,r = 1e9+1, ans = -1;
+        int l = *min_element(nums.begin(), nums.end());
+        int r = *max_element(nums.begin(), nums.end());
+        int ans = -1;
         while(l <= r){
             int mid = (l+r)/2;
 
