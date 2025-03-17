@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0443-string-compression) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0937-online-stock-span](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
@@ -799,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
