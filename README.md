@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2139-detect-squares) |
 | [2145-grid-game](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2155-find-missing-observations) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2139-detect-squares](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2139-detect-squares) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -909,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Ordered Set
 |  |
