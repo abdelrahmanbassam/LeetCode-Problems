@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2139-detect-squares) |
 | [2145-grid-game](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2636-maximum-subsequence-score](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2636-maximum-subsequence-score) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
