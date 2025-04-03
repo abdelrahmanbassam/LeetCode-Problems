@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
