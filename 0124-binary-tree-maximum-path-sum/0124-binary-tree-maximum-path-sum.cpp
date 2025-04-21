@@ -11,25 +11,28 @@
  * };
  */
 class Solution {
-    map<TreeNode*,int> splitSum , withoutSplitSum;
+    int res = INT_MIN;
 public:
-    int maxPathSumHelper(TreeNode* root,bool canSplit) {
-        if (!root)
+    int getMax(TreeNode* root){
+        if(!root)
             return 0;
-        
-        int rightSum = maxPathSumHelper(root->right,false);
-        int leftSum = maxPathSumHelper(root->left,false);
-        if(canSplit)
-            return max(leftSum,0) + max(rightSum,0) + root->val;
-        else
-            return max(max(leftSum,rightSum),0) + root->val;
+        int left = getMax(root->left);
+        int right = getMax(root->right);
+        int path = max(0,root->val + max(left,right));
+        return max(path,0);
+    }
+    void dfs(TreeNode* root){
+        if(!root)
+            return ;
+        res = max(res,root->val);
+        int leftSum = getMax(root->left);
+        int rightSum = getMax(root->right);
+        res = max(res,leftSum + rightSum + root->val);
+        dfs(root->left);
+        dfs(root->right);
     }
     int maxPathSum(TreeNode* root) {
-        if(!root)
-            return INT_MIN;
-        int sumWithRoot = maxPathSumHelper(root,true);
-        int leftTree = maxPathSum(root->left);
-        int rightTree = maxPathSum(root->right);
-        return max(max(sumWithRoot,leftTree),rightTree);
+        dfs(root);
+        return res;
     }
 };
