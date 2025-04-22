@@ -15,10 +15,10 @@ public:
         ListNode *slow = head;
         ListNode *twoStep = head;
         while(twoStep){
+            twoStep = twoStep->next;
             if(twoStep)
                 twoStep = twoStep->next;
-            if(twoStep)
-                twoStep = twoStep->next;
+                
             if(twoStep == slow)
                 return true;
             slow = slow->next;
