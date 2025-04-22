@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0139-word-break) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
