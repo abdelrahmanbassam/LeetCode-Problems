@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
@@ -789,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
