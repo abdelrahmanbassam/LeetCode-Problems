@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0169-majority-element) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
