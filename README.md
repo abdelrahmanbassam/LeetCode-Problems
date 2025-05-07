@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0883-car-fleet) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
@@ -811,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
@@ -835,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
