@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> validSubsets;
     void getValidSubset(vector<int>& candidates,vector<int>& curComp, int &target,int i,int curSum){
-        if(i == candidates.size() || target < curSum){
+        if(i == candidates.size() || target <= curSum){
             cout<<curSum<<" ";
             if(target == curSum)
                 validSubsets.push_back(curComp);
