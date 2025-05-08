@@ -1,20 +1,20 @@
 class Solution {
 public:
     vector<vector<int>> allSubsets;
-    void constructSubset(int i,vector<int>& nums,vector<int> &curSubset){
+
+    void getComps(vector<int>& nums,int i,vector<int>& curComp){
         if(i == nums.size()){
-            allSubsets.push_back(curSubset);
-            return;
+            allSubsets.push_back(curComp);
+            return ;
         }
-        curSubset.push_back(nums[i]);
-        constructSubset(i+1,nums,curSubset);
-        curSubset.pop_back();
-        constructSubset(i+1,nums,curSubset);
+        curComp.push_back(nums[i]);
+        getComps(nums,i+1,curComp);
+        curComp.pop_back();
+        getComps(nums,i+1,curComp);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> curSubset;
-        constructSubset(0,nums,curSubset);
+        vector<int> comp;
+        getComps(nums,0,comp);
         return allSubsets;
-
     }
 };
