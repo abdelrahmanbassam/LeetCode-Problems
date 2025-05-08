@@ -18,6 +18,7 @@ public:
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<int> curComp;
+        sort(candidates.begin(),candidates.end());
         getValidSubset(candidates,curComp,target,0,0);
         return validSubsets;
     }
