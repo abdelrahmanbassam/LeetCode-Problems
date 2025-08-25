@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0605-can-place-flowers) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0854-making-a-large-island) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
