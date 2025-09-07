@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [1236-n-th-tribonacci-number](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1240-stone-game-ii) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/abdelrahmanbassam/LeetCode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
